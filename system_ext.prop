@@ -8,5 +8,9 @@ persist.vendor.dpm.feature=11
 # DRM
 drm.service.enabled=true
 
+# Performance mode
+ro.perfmode=true
+ro.perf.cluster1=4
+
 # Time services
 persist.timed.enable=true
