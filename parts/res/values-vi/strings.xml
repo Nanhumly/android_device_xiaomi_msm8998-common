@@ -23,12 +23,6 @@
     <string name="display_title">Màn hình</string>
     <string name="device_doze_title">Màn hình Ambient</string>
 
-    <!-- s2s -->
-    <string name="s2s_title">Vuốt để ngủ</string>
-    <string name="s2s_title_head">Cử chỉ vuốt để ngủ</string>
-    <string name="s2s_title_summary">Vuốt ở cạnh dưới màn hình để tắt màn hình</string>
-    <string name="s2s_vib_strength_title_head">Rung khi vuốt</string>
-
     <!-- Kcal -->
     <string name="kcal_title">Màu màn hình</string>
     <string name="kcal_summary">Hiển thị hiệu chuẩn màu bằng KCAL</string>

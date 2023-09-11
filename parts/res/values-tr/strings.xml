@@ -22,12 +22,6 @@
     <string name="display_title">Ekran</string>
     <string name="device_doze_title">Ortam ekranı</string>
 
-    <!-- s2s -->
-	<string name="s2s_title">Uyku moduna geç</string>
-	<string name="s2s_title_head">Uyutmak için sürükleme hareketi</string>
-	<string name="s2s_title_summary">Ekranın alt kısmında uyku moduna geçirme hareketi</string>
-	<string name="s2s_vib_strength_title_head">Uyku sürükleme titreşimi</string>
-
     <!-- Kcal -->
 	<string name="kcal_title">Görüntü rengi</string>
 	<string name="kcal_summary">KCAL kullanarak renk kalibrasyonunu görüntüleyin</string>

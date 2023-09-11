@@ -23,12 +23,6 @@
     <string name="display_title">Pantalla</string>
     <string name="device_doze_title">Pantalla ambiente</string>
 
-    <!-- s2s -->
-    <string name="s2s_title">Deslizar para dormir (S2S)</string>
-    <string name="s2s_title_head">Gesto seleccionado</string>
-    <string name="s2s_title_summary">Gesto en la parte baja de la pantalla</string>
-    <string name="s2s_vib_strength_title_head">Intensidad de vibración S2S</string>
-
     <!-- Kcal -->
     <string name="kcal_title">Color</string>
     <string name="kcal_summary">Calibración del color usando KCAL</string>

@@ -19,12 +19,6 @@
     <string name="display_title">डिस्प्ले</string>
     <string name="device_doze_title">एम्बिएंट डिस्प्ले</string>
 
-    <!-- s2s -->
-    <string name="s2s_title">स्वीप  टू स्लीप </string>
-    <string name="s2s_title_head">स्वीप  टू स्लीप जेस्चर</string>
-    <string name="s2s_title_summary">स्वाइप जेस्चर स्लीप स्क्रीन के नीचे</string>
-    <string name="s2s_vib_strength_title_head">स्वीप2स्लीप  वाइब्रेशन</string>
-
     <!-- Kcal -->
     <string name="kcal_title">डिस्प्ले कलर</string>
     <string name="kcal_summary">डिस्प्ले कलर कैलिब्रेशन </string>

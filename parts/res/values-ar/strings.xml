@@ -22,12 +22,6 @@
     <string name="display_title">الشاشة</string>
     <string name="device_doze_title">المحيطة الشاشة</string>
 
-    <!-- s2s -->
-    <string name="s2s_title">مسح للنوم</string>
-    <string name="s2s_title_head">إيماءة النوم</string>
-    <string name="s2s_title_summary">اسحب لتفعيل إيماءة النوم في الشاشة</string>
-    <string name="s2s_vib_strength_title_head">اسحب للاهتزاز</string>
-
     <!-- Kcal -->
     <string name="kcal_title">ألوان الشاشه</string>
     <string name="kcal_summary">عرض معايرة الألوان باستخدام KCAL</string>

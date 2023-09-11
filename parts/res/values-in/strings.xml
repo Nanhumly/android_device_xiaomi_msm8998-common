@@ -22,12 +22,6 @@
     <string name="display_title">Tampilan</string>
     <string name="device_doze_title">Tampilan sekitar</string>
 
-    <!-- s2s -->
-    <string name="s2s_title">Usap untuk tidur</string>
-    <string name="s2s_title_head">Gerakan usap untuk tidur</string>
-    <string name="s2s_title_summary">Usap gerakan tidur di bagian bawah layar</string>
-    <string name="s2s_vib_strength_title_head">Getaran saat usap untuk tidur</string>
-
     <!-- Kcal -->
     <string name="kcal_title">Tampilan warna</string>
     <string name="kcal_summary">Tampilan kalibrasi warna menggunakan KCAL</string>

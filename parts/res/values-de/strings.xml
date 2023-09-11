@@ -22,12 +22,6 @@
     <string name="display_title">Anzeigen</string>
     <string name="device_doze_title">Umgebungsanzeige</string>
 
-    <!-- s2s -->
-    <string name="s2s_title">Zum Schlafengehen</string>
-    <string name="s2s_title_head">Gleiten gesteschlafen</string>
-    <string name="s2s_title_summary">Gleiten Sie unten auf dem Bildschirm in den Schlafmodus</string>
-    <string name="s2s_vib_strength_title_head">Vibrationsintensität der Gleitruhe</string>
-
     <!-- Kcal -->
     <string name="kcal_title">Farbkalibrierung</string>
     <string name="kcal_summary">Monitorfarbe manuell kalibrieren</string>

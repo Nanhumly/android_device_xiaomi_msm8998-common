@@ -22,12 +22,6 @@
     <string name="display_title">顯示</string>
     <string name="device_doze_title">環境顯示</string>
 
-    <!-- s2s -->
-    <string name="s2s_title">滑動休眠</string>
-    <string name="s2s_title_head">滑動手勢休眠</string>
-    <string name="s2s_title_summary">在屏幕底部滑動手勢休眠</string>
-    <string name="s2s_vib_strength_title_head">滑動休眠振動強度</string>
-
     <!-- Kcal -->
     <string name="kcal_title">色彩校準</string>
     <string name="kcal_summary">手動校準顯示器色彩</string>

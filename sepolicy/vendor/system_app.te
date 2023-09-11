@@ -8,9 +8,6 @@ allow system_app sysfs_fastcharge:file rwx_file_perms;
 allow system_app sysfs_kcal:file rwx_file_perms;
 allow system_app sysfs_kcal:dir { search };
 
-# Led vibrator
-allow system_app sysfs_leds:dir search;
-
 # Parts
 typeattribute system_app system_writes_vendor_properties_violators;
 allow system_app sysfs_graphics:dir search;
@@ -19,9 +16,6 @@ allow system_app sysfs_graphics:file rwx_file_perms;
 # Reverse button
 allow system_app sysfs_sectouch:dir search;
 allow system_app sysfs_sectouch:file rw_file_perms;
-
-# Sweep2sleep
-allow system_app sysfs_sts:file rw_file_perms;
 
 # Zram Access
 allow system_app sysfs_zram:dir search;

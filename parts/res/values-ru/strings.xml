@@ -22,12 +22,6 @@
     <string name="display_title">Экран</string>
     <string name="device_doze_title">Активный экран</string>
 
-    <!-- s2s -->
-    <string name="s2s_title">Свип для сна</string>
-    <string name="s2s_title_head">Свип для сна жест</string>
-    <string name="s2s_title_summary">Свип жест для сна внизу экрана</string>
-    <string name="s2s_vib_strength_title_head">Свип для сна вибрация</string>
-
     <!-- Kcal -->
     <string name="kcal_title">Цветовая схема</string>
     <string name="kcal_summary">Калибровка цвета с использованием KCAL</string>
